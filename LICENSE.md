@@ -1,4 +1,4 @@
-# 
+# 开源 WinRAR 扩展 Mac OS版 | 精英 WinRAR 扩展 PC Windows版。集成 命令行支持 和 Cookie管理，跨平台性能最大化。
 
 
 
